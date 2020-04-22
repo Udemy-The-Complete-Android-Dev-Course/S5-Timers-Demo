@@ -1,0 +1,2 @@
+rootProject.name='S5 Timers Demo'
+include ':app'
